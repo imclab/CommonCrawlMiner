@@ -5,4 +5,4 @@
 libs/dist
 libs/build
 prototype/.ipynb_checkpoints
-prototype/temp
+prototype/temp/*
